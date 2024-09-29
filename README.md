@@ -94,13 +94,6 @@ Open: http://127.0.0.1:8000
 
 **If you work with order, add stripe key and mail config in .env**
 
-## Screenshots
-
-![Admin Dashboard](https://i.ibb.co/zb5z8jw/spa1.png)
-![Orders Table](https://i.ibb.co/LhMVYzY/spa2.png)
-![Customers Orders Reports](https://i.ibb.co/9WNRVmw/spa3.png)
-![Orders Chart](https://i.ibb.co/phgCVbw/spa7.png)
-![Settings](https://i.ibb.co/vsGPXpN/spa5.png)
 
 
 ## Tech Stack
